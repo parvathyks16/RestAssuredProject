@@ -58,7 +58,7 @@ public class ReverseNum {
 			rev=rev+" ";
 		}
 		
-		System.out.println("revd sentance  " + rev);
+		System.out.println("revd sentance  " +  rev);
 		
 		
 	}
